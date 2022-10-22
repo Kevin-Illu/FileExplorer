@@ -1,0 +1,23 @@
+{
+  "name": "fileexplorer-kvn",
+  "version": "1.0.0",
+  "description": "FileExplorer made with ElectronJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Illu/FileExplorer.git"
+  },
+  "keywords": [
+    "JS",
+    "ElectronJS"
+  ],
+  "author": "Kevin Illu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin-Illu/FileExplorer/issues"
+  },
+  "homepage": "https://github.com/Kevin-Illu/FileExplorer#readme"
+}
